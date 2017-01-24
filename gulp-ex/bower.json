@@ -1,0 +1,20 @@
+{
+  "name": "gulp-ex",
+  "description": "gulpjs example and test",
+  "main": "main.js",
+  "authors": [
+    "paultaku <justlove0714@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Paul0716/toolkit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
