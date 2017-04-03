@@ -1,0 +1,17 @@
+{
+  "name": "google-maps-search",
+  "version": "1.0.0",
+  "description": "google maps search example",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "go": "node main.js"
+  },
+  "author": "paultaku",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "requests": "^0.1.7"
+  }
+}
